@@ -2,8 +2,8 @@
 Contributors: pgogy
 Tags: elearning, learning, education, wikipedia, widget
 Requires at least: 3.1
-Tested up to: 3.3
-Stable tag: 0.1
+Tested up to: 3.4
+Stable tag: 0.2
 
 A very basic Widget plugin to display WordPress bookmarks with the same link category as the current post. 
 
@@ -25,6 +25,9 @@ No Questions have been asked yet. http://www.pgogy.com/code/link-category-widget
 == Screenshots ==
 
 == Changelog ==
+
+= 0.2 =
+Tested for 3.4
 
 = 0.1 =
 First version released. Problems may occur. 
