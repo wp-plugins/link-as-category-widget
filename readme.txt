@@ -7,13 +7,13 @@ Stable tag: 0.3
 
 A very basic Widget plugin to display WordPress bookmarks with the same link category as the current post. 
 
-For support please see http://www.pgogy.com and http://www.pgogy.com/code/link-category-widget/
-
 == Description ==
 
 A very basic Widget plugin to display WordPress bookmarks with the same link category as the current post.
 
 This plugin is very much in development. Please report problems to http://www.pgogy.com/code/link-category-widget/
+
+[vimeo https://vimeo.com/60041479]
 
 == Installation ==
 
